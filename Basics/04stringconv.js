@@ -5,7 +5,11 @@
 // let str2 = "John"
 // let str3 = str1+str2
 // console.log(str3);
-let x = 3
-let y = x++
-console.log(x);
-console.log(y);
+// let x = 3
+// let y = x++
+// console.log(x);
+// console.log(y);
+
+// console.log("2">1);
+console.log("2" === 2);
+
