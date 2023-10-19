@@ -13,3 +13,13 @@
 // console.log("2">1);
 console.log("2" === 2);
 
+/* 1.Primitive datatypes
+7 types
+string,Number,boolean,null,undefined,Symbol,BigInt
+
+2.Reference Type
+Arrays,Objects,Functions
+
+//JS is dynamically typed language.
+*/
+
