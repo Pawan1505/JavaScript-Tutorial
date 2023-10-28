@@ -28,9 +28,20 @@ const obj2 = {
 // const obj3 = Object.assign({},obj1,obj2)
 // console.log(obj3);
 
-const obj3 = {...obj1,...obj2}
-console.log(obj3);
+// const obj3 = {...obj1,...obj2}
+// console.log(obj3);
 
-console.log(Object.keys(tinderUser));
-console.log(Object.values(tinderUser));
-console.log(Object.entries(tinderUser));
+// console.log(Object.keys(tinderUser));
+// console.log(Object.values(tinderUser));
+// console.log(Object.entries(tinderUser));
+
+//destructuring the objects
+
+const course = {
+    corusename:"js in hindi",
+    price:"999",
+    courseInstructor:"John"
+}
+
+const {courseInstructor:instructor} = course
+console.log(instructor);
