@@ -1,0 +1,22 @@
+Javascript Execution Context
+
+code => Global EC this(variable)
+ this object is window object in browser
+
+ Javascript is a single threaded
+
+ 1.Global Execution Context
+ 2.Functional Execution Context
+ 3.Eval Execution Context
+
+
+ Javascript executes in 2 phases 
+
+Global Execution Phase
+
+ Phase 1 - Memory Creation Phase //Memory allocation 
+ Phase 2 - Execution Phase
+ 
+CallStack
+
+
